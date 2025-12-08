@@ -1,6 +1,6 @@
 ---
 icon: 
-  type: ri:bubble-chart-fill
+  type: devicon:pypi
   color: 009656
 ---
 

@@ -1,3 +1,3 @@
-Learning to Program in Processing
+Program in Processing
 
 Using code to draw Shapes

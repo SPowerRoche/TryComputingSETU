@@ -1,9 +1,9 @@
 ---
 icon: 
-  type: devicon:pypi
-  color: 009656
+  type: streamline-freehand:famous-character-starwars-r2d2
+  color: Magenta
 ---
 
-# Introduction to Python
+# 1 Lets Get Started
 
 

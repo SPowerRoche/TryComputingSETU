@@ -1,9 +1,9 @@
 ---
 icon: 
-  type: skill-icons:raspberrypi-dark
-
+  type: simple-icons:soundcharts
+  color: Purple
 ---
 
-# AI Toolkit
+# 3. Using Python to create Charts
 
 

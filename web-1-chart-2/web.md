@@ -1,9 +1,8 @@
 ---
 icon: 
-  type: codicon:code-oss
-  color: 009656
+  type: healthicons:mobile-outline-24px
+  color: Lime
 ---
 
-# Charting Champions
-
+# 2 Lets Write an App
 

@@ -1,4 +1,9 @@
+---
+icon: 
+  type: arcticons:easy-coder
+  color: DodgerBlue 
+---
+
 # Open Night at SETU
 
-Thinking about a future in tech? Whether you're into gaming, app development, cybersecurity, or just curious about how the digital world works, a computer science course at SETU can take you from curious beginner to job-ready graduate. You'll get hands-on experience with real projects, industry placements, and access to lecturers who actually work in the field—not just talk about it. 
-The tech sector in Ireland is booming, with opportunities in everything from startups to global companies, and a computing qualification opens doors across nearly every industry. If you've enjoyed tonight's Hour of Code and want to turn that spark into a career, SETU is a solid place to start
+Hour of Code
